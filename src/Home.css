@@ -1,0 +1,13 @@
+.home__section {
+  display: flex;
+  padding: 30px;
+  z-index: 1;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.home {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
